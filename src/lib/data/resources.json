@@ -1,0 +1,92 @@
+[
+	{
+		"resource_type": "domainservices",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No",
+		"resource_category": "Other",
+		"scraped_at": "2025-07-21T16:21:36.966026",
+		"source_url": "https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/main/articles/azure-resource-manager/management/move-support-resources.md",
+		"last_modified": "04/29/2025"
+	},
+	{
+		"resource_type": "diagnosticsettings",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No",
+		"resource_category": "Other",
+		"scraped_at": "2025-07-21T16:21:36.966026",
+		"source_url": "https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/main/articles/azure-resource-manager/management/move-support-resources.md",
+		"last_modified": "04/29/2025"
+	},
+	{
+		"resource_type": "diagnosticsettingscategories",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No",
+		"resource_category": "Other",
+		"scraped_at": "2025-07-21T16:21:36.966026",
+		"source_url": "https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/main/articles/azure-resource-manager/management/move-support-resources.md",
+		"last_modified": "04/29/2025"
+	},
+	{
+		"resource_type": "privatelinkforazuread",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No",
+		"resource_category": "Other",
+		"scraped_at": "2025-07-21T16:21:36.966026",
+		"source_url": "https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/main/articles/azure-resource-manager/management/move-support-resources.md",
+		"last_modified": "04/29/2025"
+	},
+	{
+		"resource_type": "tenants",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No",
+		"resource_category": "Other",
+		"scraped_at": "2025-07-21T16:21:36.966026",
+		"source_url": "https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/main/articles/azure-resource-manager/management/move-support-resources.md",
+		"last_modified": "04/29/2025"
+	},
+	{
+		"resource_type": "aadsupportcases",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No",
+		"resource_category": "Other",
+		"scraped_at": "2025-07-21T16:21:36.966026",
+		"source_url": "https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/main/articles/azure-resource-manager/management/move-support-resources.md",
+		"last_modified": "04/29/2025"
+	},
+	{
+		"resource_type": "addsservices",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No",
+		"resource_category": "Other",
+		"scraped_at": "2025-07-21T16:21:36.966026",
+		"source_url": "https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/main/articles/azure-resource-manager/management/move-support-resources.md",
+		"last_modified": "04/29/2025"
+	},
+	{
+		"resource_type": "agents",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No",
+		"resource_category": "Other",
+		"scraped_at": "2025-07-21T16:21:36.966026",
+		"source_url": "https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/main/articles/azure-resource-manager/management/move-support-resources.md",
+		"last_modified": "04/29/2025"
+	},
+	{
+		"resource_type": "anonymousapiusers",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No",
+		"resource_category": "Other",
+		"scraped_at": "2025-07-21T16:21:36.966026",
+		"source_url": "https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/main/articles/azure-resource-manager/management/move-support-resources.md",
+		"last_modified": "04/29/2025"
+	}
+]
