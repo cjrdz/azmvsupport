@@ -4,9 +4,6 @@
 		"resource_group_move": "No",
 		"subscription_move": "No",
 		"region_move": "No",
-		"resource_category": "Other",
-		"scraped_at": "2025-07-21T16:21:36.966026",
-		"source_url": "https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/main/articles/azure-resource-manager/management/move-support-resources.md",
 		"last_modified": "04/29/2025"
 	},
 	{
@@ -14,9 +11,6 @@
 		"resource_group_move": "No",
 		"subscription_move": "No",
 		"region_move": "No",
-		"resource_category": "Other",
-		"scraped_at": "2025-07-21T16:21:36.966026",
-		"source_url": "https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/main/articles/azure-resource-manager/management/move-support-resources.md",
 		"last_modified": "04/29/2025"
 	},
 	{
@@ -24,9 +18,6 @@
 		"resource_group_move": "No",
 		"subscription_move": "No",
 		"region_move": "No",
-		"resource_category": "Other",
-		"scraped_at": "2025-07-21T16:21:36.966026",
-		"source_url": "https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/main/articles/azure-resource-manager/management/move-support-resources.md",
 		"last_modified": "04/29/2025"
 	},
 	{
@@ -34,9 +25,6 @@
 		"resource_group_move": "Yes",
 		"subscription_move": "Yes",
 		"region_move": "No",
-		"resource_category": "Other",
-		"scraped_at": "2025-07-21T16:21:36.966026",
-		"source_url": "https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/main/articles/azure-resource-manager/management/move-support-resources.md",
 		"last_modified": "04/29/2025"
 	},
 	{
@@ -44,9 +32,6 @@
 		"resource_group_move": "Yes",
 		"subscription_move": "Yes",
 		"region_move": "No",
-		"resource_category": "Other",
-		"scraped_at": "2025-07-21T16:21:36.966026",
-		"source_url": "https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/main/articles/azure-resource-manager/management/move-support-resources.md",
 		"last_modified": "04/29/2025"
 	},
 	{
@@ -54,9 +39,6 @@
 		"resource_group_move": "No",
 		"subscription_move": "No",
 		"region_move": "No",
-		"resource_category": "Other",
-		"scraped_at": "2025-07-21T16:21:36.966026",
-		"source_url": "https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/main/articles/azure-resource-manager/management/move-support-resources.md",
 		"last_modified": "04/29/2025"
 	},
 	{
@@ -64,9 +46,6 @@
 		"resource_group_move": "No",
 		"subscription_move": "No",
 		"region_move": "No",
-		"resource_category": "Other",
-		"scraped_at": "2025-07-21T16:21:36.966026",
-		"source_url": "https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/main/articles/azure-resource-manager/management/move-support-resources.md",
 		"last_modified": "04/29/2025"
 	},
 	{
@@ -74,9 +53,6 @@
 		"resource_group_move": "No",
 		"subscription_move": "No",
 		"region_move": "No",
-		"resource_category": "Other",
-		"scraped_at": "2025-07-21T16:21:36.966026",
-		"source_url": "https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/main/articles/azure-resource-manager/management/move-support-resources.md",
 		"last_modified": "04/29/2025"
 	},
 	{
@@ -84,9 +60,308 @@
 		"resource_group_move": "No",
 		"subscription_move": "No",
 		"region_move": "No",
-		"resource_category": "Other",
-		"scraped_at": "2025-07-21T16:21:36.966026",
-		"source_url": "https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/main/articles/azure-resource-manager/management/move-support-resources.md",
+		"last_modified": "04/29/2025"
+	},
+	{
+		"resource_type": "configuration",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No",
+
+		"last_modified": "04/29/2025"
+	},
+	{
+		"resource_type": "logs",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No",
+		"last_modified": "04/29/2025"
+	},
+	{
+		"resource_type": "reports",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No",
+		"last_modified": "04/29/2025"
+	},
+	{
+		"resource_type": "servicehealthmetrics",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No",
+		"last_modified": "04/29/2025"
+	},
+	{
+		"resource_type": "services",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No",
+		"last_modified": "04/29/2025"
+	},
+	{
+		"resource_type": "configurations",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No",
+		"last_modified": "04/29/2025"
+	},
+	{
+		"resource_type": "generaterecommendations",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No",
+		"last_modified": "04/29/2025"
+	},
+	{
+		"resource_type": "metadata",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No",
+		"last_modified": "04/29/2025"
+	},
+	{
+		"resource_type": "recommendations",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No",
+		"last_modified": "04/29/2025"
+	},
+	{
+		"resource_type": "suppressions",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No",
+		"last_modified": "04/29/2025"
+	},
+	{
+		"resource_type": "alertprocessingrules",
+		"resource_group_move": "No",
+		"subscription_move": "Yes",
+		"region_move": "No",
+		"last_modified": "04/29/2025"
+	},
+	{
+		"resource_type": "alerts",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No",
+		"last_modified": "04/29/2025"
+	},
+	{
+		"resource_type": "alertslist",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No",
+		"last_modified": "04/29/2025"
+	},
+	{
+		"resource_type": "alertsmetadata",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No",
+		"last_modified": "04/29/2025"
+	},
+	{
+		"resource_type": "alertssummary",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No",
+		"last_modified": "04/29/2025"
+	},
+	{
+		"resource_type": "alertssummarylist",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No",
+		"last_modified": "04/29/2025"
+	},
+	{
+		"resource_type": "smartdetectoralertrules",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No",
+		"last_modified": "04/29/2025"
+	},
+	{
+		"resource_type": "smartgroups",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No",
+		"last_modified": "04/29/2025"
+	},
+	{
+		"resource_type": "servers",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No",
+		"last_modified": "04/29/2025"
+	},
+	{
+		"resource_type": "reportfeedback",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No",
+		"last_modified": "04/29/2025"
+	},
+	{
+		"resource_type": "service*",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "Yes",
+		"last_modified": "04/29/2025"
+	},
+	{
+		"resource_type": "managedenvironments",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No",
+		"last_modified": "04/29/2025"
+	},
+	{
+		"resource_type": "configurationstores",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No",
+		"last_modified": "04/29/2025"
+	},
+	{
+		"resource_type": "configurationstores / eventgridfilters",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No",
+		"last_modified": "04/29/2025"
+	},
+	{
+		"resource_type": "spring",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No",
+		"last_modified": "04/29/2025"
+	},
+	{
+		"resource_type": "apiapps*",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "Yes",
+		"last_modified": "04/29/2025"
+	},
+	{
+		"resource_type": "appidentities",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No",
+		"last_modified": "04/29/2025"
+	},
+	{
+		"resource_type": "gateways",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No",
+		"last_modified": "04/29/2025"
+	},
+	{
+		"resource_type": "classicadministrators",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No",
+		"last_modified": "04/29/2025"
+	},
+	{
+		"resource_type": "dataaliases",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No",
+		"last_modified": "04/29/2025"
+	},
+	{
+		"resource_type": "denyassignments",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No",
+		"last_modified": "04/29/2025"
+	},
+	{
+		"resource_type": "elevateaccess",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No",
+		"last_modified": "04/29/2025"
+	},
+	{
+		"resource_type": "findorphanroleassignments",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No",
+		"last_modified": "04/29/2025"
+	},
+	{
+		"resource_type": "locks",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No",
+		"last_modified": "04/29/2025"
+	},
+	{
+		"resource_type": "permissions",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No",
+		"last_modified": "04/29/2025"
+	},
+	{
+		"resource_type": "policyassignments",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No",
+		"last_modified": "04/29/2025"
+	},
+	{
+		"resource_type": "policydefinitions",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No",
+		"last_modified": "04/29/2025"
+	},
+	{
+		"resource_type": "policysetdefinitions",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No",
+		"last_modified": "04/29/2025"
+	},
+	{
+		"resource_type": "privatelinkassociations",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No",
+		"last_modified": "04/29/2025"
+	},
+	{
+		"resource_type": "roleassignments",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No",
+		"last_modified": "04/29/2025"
+	},
+	{
+		"resource_type": "roleassignmentsusagemetrics",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No",
+		"last_modified": "04/29/2025"
+	},
+	{
+		"resource_type": "roledefinitions",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No",
+		"last_modified": "04/29/2025"
+	},
+	{
+		"resource_type": "automationaccounts*",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "Yes",
 		"last_modified": "04/29/2025"
 	}
 ]
