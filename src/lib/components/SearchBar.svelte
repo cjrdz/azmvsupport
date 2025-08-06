@@ -51,7 +51,8 @@
 		<button class="button is-info is-medium" on:click={handleSearch}>
 			<!-- Bulma 'icon' class for proper icon sizing and alignment within the button. -->
 			<span class="icon">
-				<i class="fas fa-search"></i> <!-- Search icon from Font Awesome. -->
+				<i class="fas fa-search"></i>
+				<!-- Search icon from Font Awesome. -->
 			</span>
 			<span>Search</span>
 		</button>

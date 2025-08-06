@@ -20,7 +20,12 @@
 <style>
 	/* Global styles applied to the HTML body. */
 	:global(html) {
-		background-color: rgba(18, 19, 29, 0.915); /* Sets a slate gray background for the entire page. */
+		background-color: rgba(
+			18,
+			19,
+			29,
+			0.915
+		); /* Sets a slate gray background for the entire page. */
 	}
 
 	/* Styles specific to the .container class. */

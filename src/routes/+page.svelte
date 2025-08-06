@@ -50,17 +50,18 @@
 </svelte:head>
 
 <!-- Hero section for the page header, providing a prominent title and subtitle. -->
-	<div class="hero-body">
-		<div class="container has-text-centered">
-			<h3 class="title is-3">
-				<!-- Bulma's 'icon' class correctly sizes and aligns the Font Awesome icon. -->
-				<span class="icon is-large">
-					<i class="fab fa-microsoft"></i> <!-- Microsoft icon from Font Awesome. -->
-				</span>
-				Azure Resource Search
-			</h3>
-		</div>
+<div class="hero-body">
+	<div class="container has-text-centered">
+		<h3 class="title is-3">
+			<!-- Bulma's 'icon' class correctly sizes and aligns the Font Awesome icon. -->
+			<span class="icon is-large">
+				<i class="fab fa-microsoft"></i>
+				<!-- Microsoft icon from Font Awesome. -->
+			</span>
+			Azure Resource Search
+		</h3>
 	</div>
+</div>
 
 <!-- Main content section of the page. -->
 <section class="section">
@@ -85,7 +86,8 @@
 				<!-- Bulma 'notification' for displaying success message. -->
 				<div class="notification is-success is-info">
 					<p>
-						<strong>Found {filteredResources.length} result{filteredResources.length === 1
+						<strong
+							>Found {filteredResources.length} result{filteredResources.length === 1
 								? ''
 								: 's'}</strong
 						>

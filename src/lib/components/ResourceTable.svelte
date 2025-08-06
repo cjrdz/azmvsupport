@@ -24,15 +24,6 @@
 	function getStatusIcon(status: string): string {
 		return status === 'Yes' ? 'fas fa-check' : 'fas fa-times';
 	}
-
-	/**
-	 * Formats a date string into a localized date string.
-	 * @param dateString The date string to format.
-	 * @returns Formatted date string.
-	 */
-	function formatDate(dateString: string): string {
-		return new Date(dateString).toLocaleDateString();
-	}
 </script>
 
 <!-- Conditional rendering: displays table if resources are found. -->
@@ -54,17 +45,20 @@
 		<table class="table is-fullwidth is-striped is-hoverable table is-bordered">
 			<thead>
 				<tr>
+					<th class="is-link"><b>Resource Provider</b></th>
 					<th class="is-link"><b>Resource Type</b></th>
 					<th class="is-link"><b>RG Move</b></th>
 					<th class="is-link"><b>Sub Move</b></th>
 					<th class="is-link"><b>Region Move</b></th>
-					<th class="is-link"><b>Last update</b></th>
 				</tr>
 			</thead>
 			<tbody>
 				<!-- Loop through each resource to create a table row. -->
-				{#each resources as resource (resource.resource_type)}
+				{#each resources as resource (`${resource.resource_provider}-${resource.resource_type}`)}
 					<tr>
+						<td class="is-dark">
+							<strong>{resource.resource_provider}</strong>
+						</td>
 						<td class="is-dark">
 							<strong>{resource.resource_type}</strong>
 						</td>
@@ -95,9 +89,6 @@
 								</span>
 								<span>{resource.region_move}</span>
 							</span>
-						</td>
-						<td class="is-dark">
-							{formatDate(resource.last_modified)}
 						</td>
 					</tr>
 				{/each}

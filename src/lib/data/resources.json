@@ -1,367 +1,5252 @@
 [
 	{
+		"resource_provider": "Microsoft.AAD",
 		"resource_type": "domainservices",
 		"resource_group_move": "No",
 		"subscription_move": "No",
-		"region_move": "No",
-		"last_modified": "04/29/2025"
+		"region_move": "No"
 	},
 	{
+		"resource_provider": "Microsoft.AAD",
 		"resource_type": "diagnosticsettings",
 		"resource_group_move": "No",
 		"subscription_move": "No",
-		"region_move": "No",
-		"last_modified": "04/29/2025"
+		"region_move": "No"
 	},
 	{
+		"resource_provider": "Microsoft.AAD",
 		"resource_type": "diagnosticsettingscategories",
 		"resource_group_move": "No",
 		"subscription_move": "No",
-		"region_move": "No",
-		"last_modified": "04/29/2025"
+		"region_move": "No"
 	},
 	{
+		"resource_provider": "Microsoft.AAD",
 		"resource_type": "privatelinkforazuread",
 		"resource_group_move": "Yes",
 		"subscription_move": "Yes",
-		"region_move": "No",
-		"last_modified": "04/29/2025"
+		"region_move": "No"
 	},
 	{
+		"resource_provider": "Microsoft.AAD",
 		"resource_type": "tenants",
 		"resource_group_move": "Yes",
 		"subscription_move": "Yes",
-		"region_move": "No",
-		"last_modified": "04/29/2025"
+		"region_move": "No"
 	},
 	{
+		"resource_provider": "Microsoft.Addons",
+		"resource_type": "supportproviders",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.ADHybridHealthService",
 		"resource_type": "aadsupportcases",
 		"resource_group_move": "No",
 		"subscription_move": "No",
-		"region_move": "No",
-		"last_modified": "04/29/2025"
+		"region_move": "No"
 	},
 	{
+		"resource_provider": "Microsoft.ADHybridHealthService",
 		"resource_type": "addsservices",
 		"resource_group_move": "No",
 		"subscription_move": "No",
-		"region_move": "No",
-		"last_modified": "04/29/2025"
+		"region_move": "No"
 	},
 	{
+		"resource_provider": "Microsoft.ADHybridHealthService",
 		"resource_type": "agents",
 		"resource_group_move": "No",
 		"subscription_move": "No",
-		"region_move": "No",
-		"last_modified": "04/29/2025"
+		"region_move": "No"
 	},
 	{
+		"resource_provider": "Microsoft.ADHybridHealthService",
 		"resource_type": "anonymousapiusers",
 		"resource_group_move": "No",
 		"subscription_move": "No",
-		"region_move": "No",
-		"last_modified": "04/29/2025"
+		"region_move": "No"
 	},
 	{
+		"resource_provider": "Microsoft.ADHybridHealthService",
 		"resource_type": "configuration",
 		"resource_group_move": "No",
 		"subscription_move": "No",
-		"region_move": "No",
-
-		"last_modified": "04/29/2025"
+		"region_move": "No"
 	},
 	{
+		"resource_provider": "Microsoft.ADHybridHealthService",
 		"resource_type": "logs",
 		"resource_group_move": "No",
 		"subscription_move": "No",
-		"region_move": "No",
-		"last_modified": "04/29/2025"
+		"region_move": "No"
 	},
 	{
+		"resource_provider": "Microsoft.ADHybridHealthService",
 		"resource_type": "reports",
 		"resource_group_move": "No",
 		"subscription_move": "No",
-		"region_move": "No",
-		"last_modified": "04/29/2025"
+		"region_move": "No"
 	},
 	{
+		"resource_provider": "Microsoft.ADHybridHealthService",
 		"resource_type": "servicehealthmetrics",
 		"resource_group_move": "No",
 		"subscription_move": "No",
-		"region_move": "No",
-		"last_modified": "04/29/2025"
+		"region_move": "No"
 	},
 	{
+		"resource_provider": "Microsoft.ADHybridHealthService",
 		"resource_type": "services",
 		"resource_group_move": "No",
 		"subscription_move": "No",
-		"region_move": "No",
-		"last_modified": "04/29/2025"
+		"region_move": "No"
 	},
 	{
+		"resource_provider": "Microsoft.Advisor",
 		"resource_type": "configurations",
 		"resource_group_move": "No",
 		"subscription_move": "No",
-		"region_move": "No",
-		"last_modified": "04/29/2025"
+		"region_move": "No"
 	},
 	{
+		"resource_provider": "Microsoft.Advisor",
 		"resource_type": "generaterecommendations",
 		"resource_group_move": "No",
 		"subscription_move": "No",
-		"region_move": "No",
-		"last_modified": "04/29/2025"
+		"region_move": "No"
 	},
 	{
+		"resource_provider": "Microsoft.Advisor",
 		"resource_type": "metadata",
 		"resource_group_move": "No",
 		"subscription_move": "No",
-		"region_move": "No",
-		"last_modified": "04/29/2025"
+		"region_move": "No"
 	},
 	{
+		"resource_provider": "Microsoft.Advisor",
 		"resource_type": "recommendations",
 		"resource_group_move": "No",
 		"subscription_move": "No",
-		"region_move": "No",
-		"last_modified": "04/29/2025"
+		"region_move": "No"
 	},
 	{
+		"resource_provider": "Microsoft.Advisor",
 		"resource_type": "suppressions",
 		"resource_group_move": "No",
 		"subscription_move": "No",
-		"region_move": "No",
-		"last_modified": "04/29/2025"
+		"region_move": "No"
 	},
 	{
+		"resource_provider": "Microsoft.AlertsManagement",
 		"resource_type": "alertprocessingrules",
 		"resource_group_move": "No",
 		"subscription_move": "Yes",
-		"region_move": "No",
-		"last_modified": "04/29/2025"
+		"region_move": "No"
 	},
 	{
+		"resource_provider": "Microsoft.AlertsManagement",
 		"resource_type": "alerts",
 		"resource_group_move": "No",
 		"subscription_move": "No",
-		"region_move": "No",
-		"last_modified": "04/29/2025"
+		"region_move": "No"
 	},
 	{
+		"resource_provider": "Microsoft.AlertsManagement",
 		"resource_type": "alertslist",
 		"resource_group_move": "No",
 		"subscription_move": "No",
-		"region_move": "No",
-		"last_modified": "04/29/2025"
+		"region_move": "No"
 	},
 	{
+		"resource_provider": "Microsoft.AlertsManagement",
 		"resource_type": "alertsmetadata",
 		"resource_group_move": "No",
 		"subscription_move": "No",
-		"region_move": "No",
-		"last_modified": "04/29/2025"
+		"region_move": "No"
 	},
 	{
+		"resource_provider": "Microsoft.AlertsManagement",
 		"resource_type": "alertssummary",
 		"resource_group_move": "No",
 		"subscription_move": "No",
-		"region_move": "No",
-		"last_modified": "04/29/2025"
+		"region_move": "No"
 	},
 	{
+		"resource_provider": "Microsoft.AlertsManagement",
 		"resource_type": "alertssummarylist",
 		"resource_group_move": "No",
 		"subscription_move": "No",
-		"region_move": "No",
-		"last_modified": "04/29/2025"
+		"region_move": "No"
 	},
 	{
+		"resource_provider": "Microsoft.AlertsManagement",
 		"resource_type": "smartdetectoralertrules",
 		"resource_group_move": "Yes",
 		"subscription_move": "Yes",
-		"region_move": "No",
-		"last_modified": "04/29/2025"
+		"region_move": "No"
 	},
 	{
+		"resource_provider": "Microsoft.AlertsManagement",
 		"resource_type": "smartgroups",
 		"resource_group_move": "No",
 		"subscription_move": "No",
-		"region_move": "No",
-		"last_modified": "04/29/2025"
+		"region_move": "No"
 	},
 	{
+		"resource_provider": "Microsoft.AnalysisServices",
 		"resource_type": "servers",
 		"resource_group_move": "Yes",
 		"subscription_move": "Yes",
-		"region_move": "No",
-		"last_modified": "04/29/2025"
+		"region_move": "No"
 	},
 	{
+		"resource_provider": "Microsoft.ApiManagement",
 		"resource_type": "reportfeedback",
 		"resource_group_move": "No",
 		"subscription_move": "No",
-		"region_move": "No",
-		"last_modified": "04/29/2025"
+		"region_move": "No"
 	},
 	{
-		"resource_type": "service*",
+		"resource_provider": "Microsoft.ApiManagement",
+		"resource_type": "service",
 		"resource_group_move": "Yes",
 		"subscription_move": "Yes",
-		"region_move": "Yes",
-		"last_modified": "04/29/2025"
+		"region_move": "Yes (using template)"
 	},
 	{
+		"resource_provider": "Microsoft.App",
 		"resource_type": "managedenvironments",
 		"resource_group_move": "Yes",
 		"subscription_move": "Yes",
-		"region_move": "No",
-		"last_modified": "04/29/2025"
+		"region_move": "No"
 	},
 	{
+		"resource_provider": "Microsoft.AppConfiguration",
 		"resource_type": "configurationstores",
 		"resource_group_move": "Yes",
 		"subscription_move": "Yes",
-		"region_move": "No",
-		"last_modified": "04/29/2025"
+		"region_move": "No"
 	},
 	{
+		"resource_provider": "Microsoft.AppConfiguration",
 		"resource_type": "configurationstores / eventgridfilters",
 		"resource_group_move": "No",
 		"subscription_move": "No",
-		"region_move": "No",
-		"last_modified": "04/29/2025"
+		"region_move": "No"
 	},
 	{
+		"resource_provider": "Microsoft.AppPlatform",
 		"resource_type": "spring",
 		"resource_group_move": "Yes",
 		"subscription_move": "Yes",
-		"region_move": "No",
-		"last_modified": "04/29/2025"
+		"region_move": "No"
 	},
 	{
-		"resource_type": "apiapps*",
+		"resource_provider": "Microsoft.AppService",
+		"resource_type": "apiapps",
 		"resource_group_move": "No",
 		"subscription_move": "No",
-		"region_move": "Yes",
-		"last_modified": "04/29/2025"
+		"region_move": "Yes (using template)"
 	},
 	{
+		"resource_provider": "Microsoft.AppService",
 		"resource_type": "appidentities",
 		"resource_group_move": "No",
 		"subscription_move": "No",
-		"region_move": "No",
-		"last_modified": "04/29/2025"
+		"region_move": "No"
 	},
 	{
+		"resource_provider": "Microsoft.AppService",
 		"resource_type": "gateways",
 		"resource_group_move": "No",
 		"subscription_move": "No",
-		"region_move": "No",
-		"last_modified": "04/29/2025"
+		"region_move": "No"
 	},
 	{
+		"resource_provider": "Microsoft.Attestation",
+		"resource_type": "attestationproviders",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Authorization",
 		"resource_type": "classicadministrators",
 		"resource_group_move": "No",
 		"subscription_move": "No",
-		"region_move": "No",
-		"last_modified": "04/29/2025"
+		"region_move": "No"
 	},
 	{
+		"resource_provider": "Microsoft.Authorization",
 		"resource_type": "dataaliases",
 		"resource_group_move": "No",
 		"subscription_move": "No",
-		"region_move": "No",
-		"last_modified": "04/29/2025"
+		"region_move": "No"
 	},
 	{
+		"resource_provider": "Microsoft.Authorization",
 		"resource_type": "denyassignments",
 		"resource_group_move": "No",
 		"subscription_move": "No",
-		"region_move": "No",
-		"last_modified": "04/29/2025"
+		"region_move": "No"
 	},
 	{
+		"resource_provider": "Microsoft.Authorization",
 		"resource_type": "elevateaccess",
 		"resource_group_move": "No",
 		"subscription_move": "No",
-		"region_move": "No",
-		"last_modified": "04/29/2025"
+		"region_move": "No"
 	},
 	{
+		"resource_provider": "Microsoft.Authorization",
 		"resource_type": "findorphanroleassignments",
 		"resource_group_move": "No",
 		"subscription_move": "No",
-		"region_move": "No",
-		"last_modified": "04/29/2025"
+		"region_move": "No"
 	},
 	{
+		"resource_provider": "Microsoft.Authorization",
 		"resource_type": "locks",
 		"resource_group_move": "No",
 		"subscription_move": "No",
-		"region_move": "No",
-		"last_modified": "04/29/2025"
+		"region_move": "No"
 	},
 	{
+		"resource_provider": "Microsoft.Authorization",
 		"resource_type": "permissions",
 		"resource_group_move": "No",
 		"subscription_move": "No",
-		"region_move": "No",
-		"last_modified": "04/29/2025"
+		"region_move": "No"
 	},
 	{
+		"resource_provider": "Microsoft.Authorization",
 		"resource_type": "policyassignments",
 		"resource_group_move": "No",
 		"subscription_move": "No",
-		"region_move": "No",
-		"last_modified": "04/29/2025"
+		"region_move": "No"
 	},
 	{
+		"resource_provider": "Microsoft.Authorization",
 		"resource_type": "policydefinitions",
 		"resource_group_move": "No",
 		"subscription_move": "No",
-		"region_move": "No",
-		"last_modified": "04/29/2025"
+		"region_move": "No"
 	},
 	{
+		"resource_provider": "Microsoft.Authorization",
 		"resource_type": "policysetdefinitions",
 		"resource_group_move": "No",
 		"subscription_move": "No",
-		"region_move": "No",
-		"last_modified": "04/29/2025"
+		"region_move": "No"
 	},
 	{
+		"resource_provider": "Microsoft.Authorization",
 		"resource_type": "privatelinkassociations",
 		"resource_group_move": "No",
 		"subscription_move": "No",
-		"region_move": "No",
-		"last_modified": "04/29/2025"
+		"region_move": "No"
 	},
 	{
+		"resource_provider": "Microsoft.Authorization",
+		"resource_type": "resourcemanagementprivatelinks",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Authorization",
 		"resource_type": "roleassignments",
 		"resource_group_move": "No",
 		"subscription_move": "No",
-		"region_move": "No",
-		"last_modified": "04/29/2025"
+		"region_move": "No"
 	},
 	{
+		"resource_provider": "Microsoft.Authorization",
 		"resource_type": "roleassignmentsusagemetrics",
 		"resource_group_move": "No",
 		"subscription_move": "No",
-		"region_move": "No",
-		"last_modified": "04/29/2025"
+		"region_move": "No"
 	},
 	{
+		"resource_provider": "Microsoft.Authorization",
 		"resource_type": "roledefinitions",
 		"resource_group_move": "No",
 		"subscription_move": "No",
-		"region_move": "No",
-		"last_modified": "04/29/2025"
+		"region_move": "No"
 	},
 	{
-		"resource_type": "automationaccounts*",
+		"resource_provider": "Microsoft.Automation",
+		"resource_type": "automationaccounts",
 		"resource_group_move": "Yes",
 		"subscription_move": "Yes",
-		"region_move": "Yes",
-		"last_modified": "04/29/2025"
+		"region_move": "PowerShell script"
+	},
+	{
+		"resource_provider": "Microsoft.Automation",
+		"resource_type": "automationaccounts / configurations",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Automation",
+		"resource_type": "automationaccounts / runbooks",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.AVS",
+		"resource_type": "privateclouds",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.AzureActiveDirectory",
+		"resource_type": "b2cdirectories",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.AzureActiveDirectory",
+		"resource_type": "b2ctenants",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.AzureArcData",
+		"resource_type": "datacontrollers",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.AzureArcData",
+		"resource_type": "postgresinstances",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.AzureArcData",
+		"resource_type": "sqlmanagedinstances",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.AzureArcData",
+		"resource_type": "sqlserverinstances",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.AzureArcData",
+		"resource_type": "sqlserverlicenses",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.AzureData",
+		"resource_type": "datacontrollers",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.AzureData",
+		"resource_type": "hybriddatamanagers",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.AzureData",
+		"resource_type": "postgresinstances",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.AzureData",
+		"resource_type": "sqlinstances",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.AzureData",
+		"resource_type": "sqlmanagedinstances",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.AzureData",
+		"resource_type": "sqlserverinstances",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.AzureData",
+		"resource_type": "sqlserverregistrations",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.AzureStack",
+		"resource_type": "cloudmanifestfiles",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.AzureStack",
+		"resource_type": "registrations",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.AzureStackHCI",
+		"resource_type": "clusters",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Batch",
+		"resource_type": "batchaccounts",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "Yes (using template)"
+	},
+	{
+		"resource_provider": "Microsoft.Billing",
+		"resource_type": "billingaccounts",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Billing",
+		"resource_type": "billingperiods",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Billing",
+		"resource_type": "billingpermissions",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Billing",
+		"resource_type": "billingproperty",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Billing",
+		"resource_type": "billingroleassignments",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Billing",
+		"resource_type": "billingroledefinitions",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Billing",
+		"resource_type": "departments",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Billing",
+		"resource_type": "enrollmentaccounts",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Billing",
+		"resource_type": "invoices",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Billing",
+		"resource_type": "transfers",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.BingMaps",
+		"resource_type": "mapapis",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.BizTalkServices",
+		"resource_type": "biztalk",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Blockchain",
+		"resource_type": "blockchainmembers",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No   The blockchain network can't have nodes in different regions."
+	},
+	{
+		"resource_provider": "Microsoft.Blockchain",
+		"resource_type": "cordamembers",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Blockchain",
+		"resource_type": "watchers",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.BlockchainTokens",
+		"resource_type": "tokenservices",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Blueprint",
+		"resource_type": "blueprintassignments",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Blueprint",
+		"resource_type": "blueprints",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.BotService",
+		"resource_type": "botservices",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Cache",
+		"resource_type": "redis",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Cache",
+		"resource_type": "redisenterprise",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Capacity",
+		"resource_type": "appliedreservations",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Capacity",
+		"resource_type": "calculateexchange",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Capacity",
+		"resource_type": "calculateprice",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Capacity",
+		"resource_type": "calculatepurchaseprice",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Capacity",
+		"resource_type": "catalogs",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Capacity",
+		"resource_type": "commercialreservationorders",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Capacity",
+		"resource_type": "exchange",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Capacity",
+		"resource_type": "reservationorders",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Capacity",
+		"resource_type": "reservations",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Capacity",
+		"resource_type": "resources",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Capacity",
+		"resource_type": "validatereservationorder",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Cdn",
+		"resource_type": "cdnwebapplicationfirewallmanagedrulesets",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Cdn",
+		"resource_type": "cdnwebapplicationfirewallpolicies",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Cdn",
+		"resource_type": "edgenodes",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Cdn",
+		"resource_type": "profiles",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Cdn",
+		"resource_type": "profiles / endpoints",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.CertificateRegistration",
+		"resource_type": "certificateorders",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.ClassicCompute",
+		"resource_type": "capabilities",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.ClassicCompute",
+		"resource_type": "domainnames",
+		"resource_group_move": "Yes",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.ClassicCompute",
+		"resource_type": "quotas",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.ClassicCompute",
+		"resource_type": "resourcetypes",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.ClassicCompute",
+		"resource_type": "validatesubscriptionmoveavailability",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.ClassicCompute",
+		"resource_type": "virtualmachines",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.ClassicInfrastructureMigrate",
+		"resource_type": "classicinfrastructureresources",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.ClassicNetwork",
+		"resource_type": "capabilities",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.ClassicNetwork",
+		"resource_type": "expressroutecrossconnections",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.ClassicNetwork",
+		"resource_type": "expressroutecrossconnections / peerings",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.ClassicNetwork",
+		"resource_type": "gatewaysupporteddevices",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.ClassicNetwork",
+		"resource_type": "networksecuritygroups",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.ClassicNetwork",
+		"resource_type": "quotas",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.ClassicNetwork",
+		"resource_type": "reservedips",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.ClassicNetwork",
+		"resource_type": "virtualnetworks",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.ClassicStorage",
+		"resource_type": "disks",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.ClassicStorage",
+		"resource_type": "images",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.ClassicStorage",
+		"resource_type": "osimages",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.ClassicStorage",
+		"resource_type": "osplatformimages",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.ClassicStorage",
+		"resource_type": "publicimages",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.ClassicStorage",
+		"resource_type": "quotas",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.ClassicStorage",
+		"resource_type": "storageaccounts",
+		"resource_group_move": "Yes",
+		"subscription_move": "No",
+		"region_move": "Yes"
+	},
+	{
+		"resource_provider": "Microsoft.ClassicStorage",
+		"resource_type": "vmimages",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.ClassicSubscription",
+		"resource_type": "operations",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.CognitiveServices",
+		"resource_type": "accounts",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.CognitiveServices",
+		"resource_type": "Cognitive Search",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "Manual steps support this.  See  Move your Azure AI Search service to another Azure region  to learn more."
+	},
+	{
+		"resource_provider": "Microsoft.Commerce",
+		"resource_type": "ratecard",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Commerce",
+		"resource_type": "usageaggregates",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Communication",
+		"resource_type": "communicationservices",
+		"resource_group_move": "Yes",
+		"subscription_move": "yes    note that resources with attached phone numbers can't be moved to subscriptions in different data locations or subscriptions that don't support phone numbers.",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Compute",
+		"resource_type": "availabilitysets",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "Yes    Use  Azure Resource Mover  to move availability sets."
+	},
+	{
+		"resource_provider": "Microsoft.Compute",
+		"resource_type": "diskaccesses",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Compute",
+		"resource_type": "diskencryptionsets",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Compute",
+		"resource_type": "disks",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "Yes    Use  Azure Resource Mover  to move Azure VMs and related disks."
+	},
+	{
+		"resource_provider": "Microsoft.Compute",
+		"resource_type": "galleries",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Compute",
+		"resource_type": "galleries / images",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Compute",
+		"resource_type": "galleries / images / versions",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Compute",
+		"resource_type": "hostgroups",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Compute",
+		"resource_type": "hostgroups / hosts",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Compute",
+		"resource_type": "images",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Compute",
+		"resource_type": "proximityplacementgroups",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Compute",
+		"resource_type": "restorepointcollections",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Compute",
+		"resource_type": "restorepointcollections / restorepoints",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Compute",
+		"resource_type": "sharedvmextensions",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Compute",
+		"resource_type": "sharedvmimages",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Compute",
+		"resource_type": "sharedvmimages / versions",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Compute",
+		"resource_type": "snapshots",
+		"resource_group_move": "yes  - full   no - incremental",
+		"subscription_move": "yes  - full   no - incremental",
+		"region_move": "No - Full   No - Incremental"
+	},
+	{
+		"resource_provider": "Microsoft.Compute",
+		"resource_type": "sshpublickeys",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Compute",
+		"resource_type": "virtualmachines",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "Yes    Use  Azure Resource Mover  to move Azure Virtual Machines."
+	},
+	{
+		"resource_provider": "Microsoft.Compute",
+		"resource_type": "virtualmachines / extensions",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Compute",
+		"resource_type": "virtualmachinescalesets",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Confluent",
+		"resource_type": "organizations",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Consumption",
+		"resource_type": "aggregatedcost",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Consumption",
+		"resource_type": "balances",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Consumption",
+		"resource_type": "budgets",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Consumption",
+		"resource_type": "charges",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Consumption",
+		"resource_type": "costtags",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Consumption",
+		"resource_type": "credits",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Consumption",
+		"resource_type": "events",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Consumption",
+		"resource_type": "forecasts",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Consumption",
+		"resource_type": "lots",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Consumption",
+		"resource_type": "marketplaces",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Consumption",
+		"resource_type": "pricesheets",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Consumption",
+		"resource_type": "products",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Consumption",
+		"resource_type": "reservationdetails",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Consumption",
+		"resource_type": "reservationrecommendationdetails",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Consumption",
+		"resource_type": "reservationrecommendations",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Consumption",
+		"resource_type": "reservationsummaries",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Consumption",
+		"resource_type": "reservationtransactions",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Consumption",
+		"resource_type": "tags",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Consumption",
+		"resource_type": "tenants",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Consumption",
+		"resource_type": "terms",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Consumption",
+		"resource_type": "usagedetails",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.ContainerInstance",
+		"resource_type": "containergroups",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.ContainerInstance",
+		"resource_type": "serviceassociationlinks",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.ContainerRegistry",
+		"resource_type": "registries",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.ContainerRegistry",
+		"resource_type": "registries / agentpools",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.ContainerRegistry",
+		"resource_type": "registries / buildtasks",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.ContainerRegistry",
+		"resource_type": "registries / replications",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.ContainerRegistry",
+		"resource_type": "registries / tasks",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.ContainerRegistry",
+		"resource_type": "registries / webhooks",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.ContainerService",
+		"resource_type": "containerservices",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.ContainerService",
+		"resource_type": "managedclusters",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.ContainerService",
+		"resource_type": "openshiftmanagedclusters",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.ContentModerator",
+		"resource_type": "applications",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.CortanaAnalytics",
+		"resource_type": "accounts",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.CostManagement",
+		"resource_type": "alerts",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.CostManagement",
+		"resource_type": "billingaccounts",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.CostManagement",
+		"resource_type": "budgets",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.CostManagement",
+		"resource_type": "cloudconnectors",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.CostManagement",
+		"resource_type": "connectors",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.CostManagement",
+		"resource_type": "departments",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.CostManagement",
+		"resource_type": "dimensions",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.CostManagement",
+		"resource_type": "enrollmentaccounts",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.CostManagement",
+		"resource_type": "exports",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.CostManagement",
+		"resource_type": "externalbillingaccounts",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.CostManagement",
+		"resource_type": "forecast",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.CostManagement",
+		"resource_type": "query",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.CostManagement",
+		"resource_type": "register",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.CostManagement",
+		"resource_type": "reportconfigs",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.CostManagement",
+		"resource_type": "reports",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.CostManagement",
+		"resource_type": "settings",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.CostManagement",
+		"resource_type": "showbackrules",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.CostManagement",
+		"resource_type": "views",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.CustomerInsights",
+		"resource_type": "hubs",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.CustomerLockbox",
+		"resource_type": "requests",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.CustomProviders",
+		"resource_type": "associations",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.CustomProviders",
+		"resource_type": "resourceproviders",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.DataBox",
+		"resource_type": "jobs",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.DataBoxEdge",
+		"resource_type": "availableskus",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.DataBoxEdge",
+		"resource_type": "databoxedgedevices",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Databricks",
+		"resource_type": "workspaces",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Databricks",
+		"resource_type": "accessConnectors",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.DataCatalog",
+		"resource_type": "catalogs",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.DataCatalog",
+		"resource_type": "datacatalogs",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.DataConnect",
+		"resource_type": "connectionmanagers",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.DataDog",
+		"resource_type": "monitors",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.DataExchange",
+		"resource_type": "packages",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.DataExchange",
+		"resource_type": "plans",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.DataFactory",
+		"resource_type": "datafactories",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.DataFactory",
+		"resource_type": "factories",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.DataLake",
+		"resource_type": "datalakeaccounts",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.DataLakeAnalytics",
+		"resource_type": "accounts",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.DataLakeStore",
+		"resource_type": "accounts",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.DataMigration",
+		"resource_type": "services",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.DataMigration",
+		"resource_type": "services / projects",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.DataMigration",
+		"resource_type": "slots",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.DataMigration",
+		"resource_type": "sqlmigrationservices",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.DataProtection",
+		"resource_type": "backupvaults",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.DataShare",
+		"resource_type": "accounts",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.DBforMariaDB",
+		"resource_type": "servers",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "You can use a cross-region read replica to move an existing server. See the corresponding  move guidance  to learn more.  If the service is provisioned with geo-redundant backup storage, you can use geo-restore to restore in other regions.  Learn more ."
+	},
+	{
+		"resource_provider": "Microsoft.DBforMySQL",
+		"resource_type": "flexibleServers",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.DBforMySQL",
+		"resource_type": "servers",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "You can use a cross-region read replica to move an existing server.  Learn more ."
+	},
+	{
+		"resource_provider": "Microsoft.DBforPostgreSQL",
+		"resource_type": "flexibleServers",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.DBforPostgreSQL",
+		"resource_type": "servergroups",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.DBforPostgreSQL",
+		"resource_type": "servers",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "You can use a cross-region read replica to move an existing server.  Learn more ."
+	},
+	{
+		"resource_provider": "Microsoft.DBforPostgreSQL",
+		"resource_type": "serversv2",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.DeploymentManager",
+		"resource_type": "artifactsources",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.DeploymentManager",
+		"resource_type": "rollouts",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.DeploymentManager",
+		"resource_type": "servicetopologies",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.DeploymentManager",
+		"resource_type": "servicetopologies / services",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.DeploymentManager",
+		"resource_type": "servicetopologies / services / serviceunits",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.DeploymentManager",
+		"resource_type": "steps",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.DesktopVirtualization",
+		"resource_type": "applicationgroups",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.DesktopVirtualization",
+		"resource_type": "hostpools",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.DesktopVirtualization",
+		"resource_type": "scalingplans",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.DesktopVirtualization",
+		"resource_type": "workspaces",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.DesktopVirtualization",
+		"resource_type": "appattachpackages",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Devices",
+		"resource_type": "elasticpools",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No. The resource isn't exposed."
+	},
+	{
+		"resource_provider": "Microsoft.Devices",
+		"resource_type": "elasticpools / iothubtenants",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No. The resource isn't exposed."
+	},
+	{
+		"resource_provider": "Microsoft.Devices",
+		"resource_type": "iothubs",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "Yes .  Learn more ."
+	},
+	{
+		"resource_provider": "Microsoft.Devices",
+		"resource_type": "provisioningservices",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.DevOps",
+		"resource_type": "pipelines",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.DevOps",
+		"resource_type": "controllers",
+		"resource_group_move": "pending",
+		"subscription_move": "pending",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.DevSpaces",
+		"resource_type": "controllers",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.DevSpaces",
+		"resource_type": "AKS cluster",
+		"resource_group_move": "pending",
+		"subscription_move": "pending",
+		"region_move": "No   Learn more  about moving to another region."
+	},
+	{
+		"resource_provider": "Microsoft.DevTestLab",
+		"resource_type": "labcenters",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.DevTestLab",
+		"resource_type": "labs",
+		"resource_group_move": "Yes",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.DevTestLab",
+		"resource_type": "labs / environments",
+		"resource_group_move": "Yes",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.DevTestLab",
+		"resource_type": "labs / servicerunners",
+		"resource_group_move": "Yes",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.DevTestLab",
+		"resource_type": "labs / virtualmachines",
+		"resource_group_move": "Yes",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.DevTestLab",
+		"resource_type": "schedules",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.DigitalTwins",
+		"resource_type": "digitaltwinsinstances",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "Yes  by recreating resources in new region.  Learn more ."
+	},
+	{
+		"resource_provider": "Microsoft.DocumentDB",
+		"resource_type": "databaseaccounts",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.DocumentDB",
+		"resource_type": "mongoClusters",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.DocumentDB",
+		"resource_type": "cassandraClusters",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.DomainRegistration",
+		"resource_type": "domains",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.DomainRegistration",
+		"resource_type": "generatessorequest",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.DomainRegistration",
+		"resource_type": "topleveldomains",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.DomainRegistration",
+		"resource_type": "validatedomainregistrationinformation",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Elastic",
+		"resource_type": "monitors",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.EnterpriseKnowledgeGraph",
+		"resource_type": "services",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.EventGrid",
+		"resource_type": "domains",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.EventGrid",
+		"resource_type": "eventsubscriptions",
+		"resource_group_move": "no; can't be moved independently but move automatically with a subscribed resource.",
+		"subscription_move": "no; can't be moved independently but move automatically with a subscribed resource.",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.EventGrid",
+		"resource_type": "extensiontopics",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.EventGrid",
+		"resource_type": "partnernamespaces",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.EventGrid",
+		"resource_type": "partnerregistrations",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.EventGrid",
+		"resource_type": "partnertopics",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.EventGrid",
+		"resource_type": "systemtopics",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.EventGrid",
+		"resource_type": "topics",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.EventGrid",
+		"resource_type": "topictypes",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.EventHub",
+		"resource_type": "clusters",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.EventHub",
+		"resource_type": "namespaces",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "Yes (using template)"
+	},
+	{
+		"resource_provider": "Microsoft.EventHub",
+		"resource_type": "sku",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Experimentation",
+		"resource_type": "experimentworkspaces",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.ExtendedLocation",
+		"resource_type": "customLocations",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Falcon",
+		"resource_type": "namespaces",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Features",
+		"resource_type": "featureproviders",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Features",
+		"resource_type": "features",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Features",
+		"resource_type": "providers",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Features",
+		"resource_type": "subscriptionfeatureregistrations",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Genomics",
+		"resource_type": "accounts",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.GuestConfiguration",
+		"resource_type": "automanagedaccounts",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.GuestConfiguration",
+		"resource_type": "automanagedvmconfigurationprofiles",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.GuestConfiguration",
+		"resource_type": "guestconfigurationassignments",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.GuestConfiguration",
+		"resource_type": "software",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.GuestConfiguration",
+		"resource_type": "softwareupdateprofile",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.GuestConfiguration",
+		"resource_type": "softwareupdates",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.HanaOnAzure",
+		"resource_type": "hanainstances",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.HanaOnAzure",
+		"resource_type": "sapmonitors",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.HardwareSecurityModules",
+		"resource_type": "dedicatedhsms",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.HDInsight",
+		"resource_type": "clusters",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.HealthcareApis",
+		"resource_type": "services",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.HybridCompute",
+		"resource_type": "licenses",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.HybridCompute",
+		"resource_type": "machines",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.HybridCompute",
+		"resource_type": "machines / extensions",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.HybridCompute",
+		"resource_type": "privatelinkscopes",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.HybridData",
+		"resource_type": "datamanagers",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.HybridNetwork",
+		"resource_type": "devices",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.HybridNetwork",
+		"resource_type": "vnfs",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Hydra",
+		"resource_type": "components",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Hydra",
+		"resource_type": "networkscopes",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.ImportExport",
+		"resource_type": "jobs",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Insights",
+		"resource_type": "accounts",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No.  Learn more ."
+	},
+	{
+		"resource_provider": "Microsoft.Insights",
+		"resource_type": "actiongroups",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Insights",
+		"resource_type": "activitylogalerts",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Insights",
+		"resource_type": "alertrules",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Insights",
+		"resource_type": "autoscalesettings",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Insights",
+		"resource_type": "baseline",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Insights",
+		"resource_type": "components",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Insights",
+		"resource_type": "datacollectionrules",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Insights",
+		"resource_type": "diagnosticsettings",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Insights",
+		"resource_type": "diagnosticsettingscategories",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Insights",
+		"resource_type": "eventcategories",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Insights",
+		"resource_type": "eventtypes",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Insights",
+		"resource_type": "extendeddiagnosticsettings",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Insights",
+		"resource_type": "guestdiagnosticsettings",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Insights",
+		"resource_type": "listmigrationdate",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Insights",
+		"resource_type": "logdefinitions",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Insights",
+		"resource_type": "logprofiles",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Insights",
+		"resource_type": "logs",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Insights",
+		"resource_type": "metricalerts",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Insights",
+		"resource_type": "metricbaselines",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Insights",
+		"resource_type": "metricbatch",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Insights",
+		"resource_type": "metricdefinitions",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Insights",
+		"resource_type": "metricnamespaces",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Insights",
+		"resource_type": "metrics",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Insights",
+		"resource_type": "migratealertrules",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Insights",
+		"resource_type": "migratetonewpricingmodel",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Insights",
+		"resource_type": "myworkbooks",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Insights",
+		"resource_type": "notificationgroups",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Insights",
+		"resource_type": "privatelinkscopes",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Insights",
+		"resource_type": "rollbacktolegacypricingmodel",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Insights",
+		"resource_type": "scheduledqueryrules",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Insights",
+		"resource_type": "topology",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Insights",
+		"resource_type": "transactions",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Insights",
+		"resource_type": "vminsightsonboardingstatuses",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Insights",
+		"resource_type": "webtests",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Insights",
+		"resource_type": "webtests / gettestresultfile",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Insights",
+		"resource_type": "workbooks",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Insights",
+		"resource_type": "workbooktemplates",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.IoTCentral",
+		"resource_type": "apptemplates",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.IoTCentral",
+		"resource_type": "iotapps",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.IoTHub",
+		"resource_type": "iothub",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "Yes  (clone hub)    Clone an Azure IoT Hub to another region ."
+	},
+	{
+		"resource_provider": "Microsoft.IoTSpaces",
+		"resource_type": "graph",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.KeyVault",
+		"resource_type": "deletedvaults",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.KeyVault",
+		"resource_type": "hsmpools",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.KeyVault",
+		"resource_type": "managedhsms",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.KeyVault",
+		"resource_type": "vaults",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Kubernetes",
+		"resource_type": "connectedclusters",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Kubernetes",
+		"resource_type": "registeredsubscriptions",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.KubernetesConfiguration",
+		"resource_type": "sourcecontrolconfigurations",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Kusto",
+		"resource_type": "clusters",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.LabServices",
+		"resource_type": "labaccounts",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.LabServices",
+		"resource_type": "users",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.LoadTestService",
+		"resource_type": "loadtests",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.LocationBasedServices",
+		"resource_type": "accounts",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.LocationServices",
+		"resource_type": "accounts",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No, it's a global service."
+	},
+	{
+		"resource_provider": "Microsoft.Logic",
+		"resource_type": "hostingenvironments",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Logic",
+		"resource_type": "integrationaccounts",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Logic",
+		"resource_type": "integrationserviceenvironments",
+		"resource_group_move": "Yes",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Logic",
+		"resource_type": "integrationserviceenvironments / managedapis",
+		"resource_group_move": "Yes",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Logic",
+		"resource_type": "isolatedenvironments",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Logic",
+		"resource_type": "workflows",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.MachineLearning",
+		"resource_type": "commitmentplans",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.MachineLearning",
+		"resource_type": "webservices",
+		"resource_group_move": "Yes",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.MachineLearning",
+		"resource_type": "workspaces",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.MachineLearningCompute",
+		"resource_type": "operationalizationclusters",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.MachineLearningExperimentation",
+		"resource_type": "accounts",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.MachineLearningExperimentation",
+		"resource_type": "teamaccounts",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.MachineLearningModelManagement",
+		"resource_type": "accounts",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.MachineLearningServices",
+		"resource_type": "workspaces",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Maintenance",
+		"resource_type": "configurationassignments",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Maintenance",
+		"resource_type": "maintenanceconfigurations",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Maintenance",
+		"resource_type": "updates",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.ManagedIdentity",
+		"resource_type": "identities",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.ManagedIdentity",
+		"resource_type": "userassignedidentities",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.ManagedNetwork",
+		"resource_type": "managednetworks",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.ManagedNetwork",
+		"resource_type": "managednetworks / managednetworkgroups",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.ManagedNetwork",
+		"resource_type": "managednetworks / managednetworkpeeringpolicies",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.ManagedNetwork",
+		"resource_type": "notification",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.ManagedServices",
+		"resource_type": "marketplaceregistrationdefinitions",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.ManagedServices",
+		"resource_type": "registrationassignments",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.ManagedServices",
+		"resource_type": "registrationdefinitions",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Management",
+		"resource_type": "getentities",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Management",
+		"resource_type": "managementgroups",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Management",
+		"resource_type": "managementgroups / settings",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Management",
+		"resource_type": "resources",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Management",
+		"resource_type": "starttenantbackfill",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Management",
+		"resource_type": "tenantbackfillstatus",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Maps",
+		"resource_type": "accounts",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No; Azure Maps is a geospatial service."
+	},
+	{
+		"resource_provider": "Microsoft.Maps",
+		"resource_type": "accounts / privateatlases",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Marketplace",
+		"resource_type": "offers",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Marketplace",
+		"resource_type": "offertypes",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Marketplace",
+		"resource_type": "privategalleryitems",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Marketplace",
+		"resource_type": "privatestoreclient",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Marketplace",
+		"resource_type": "privatestores",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Marketplace",
+		"resource_type": "products",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Marketplace",
+		"resource_type": "publishers",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Marketplace",
+		"resource_type": "register",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.MarketplaceApps",
+		"resource_type": "classicdevservices",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.MarketplaceOrdering",
+		"resource_type": "agreements",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.MarketplaceOrdering",
+		"resource_type": "offertypes",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Media",
+		"resource_type": "mediaservices",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Media",
+		"resource_type": "mediaservices / liveevents",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Media",
+		"resource_type": "mediaservices / streamingendpoints",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Microservices4Spring",
+		"resource_type": "appclusters",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Migrate",
+		"resource_type": "assessmentprojects",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Migrate",
+		"resource_type": "migrateprojects",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Migrate",
+		"resource_type": "movecollections",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Migrate",
+		"resource_type": "projects",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.MixedReality",
+		"resource_type": "remoterenderingaccounts",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.MobileNetwork",
+		"resource_type": "mobileNetworks",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "Yes Move your private mobile network resources to a different region ."
+	},
+	{
+		"resource_provider": "Microsoft.MobileNetwork",
+		"resource_type": "mobileNetworks / dataNetworks",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "Yes Move your private mobile network resources to a different region ."
+	},
+	{
+		"resource_provider": "Microsoft.MobileNetwork",
+		"resource_type": "mobileNetworks / simPolicies",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "Yes Move your private mobile network resources to a different region ."
+	},
+	{
+		"resource_provider": "Microsoft.MobileNetwork",
+		"resource_type": "mobileNetworks / sites",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "Yes Move your private mobile network resources to a different region ."
+	},
+	{
+		"resource_provider": "Microsoft.MobileNetwork",
+		"resource_type": "mobileNetworks / slices",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "Yes Move your private mobile network resources to a different region ."
+	},
+	{
+		"resource_provider": "Microsoft.MobileNetwork",
+		"resource_type": "packetCoreControlPlanes",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "Yes Move your private mobile network resources to a different region ."
+	},
+	{
+		"resource_provider": "Microsoft.MobileNetwork",
+		"resource_type": "packetCoreControlPlanes / packetCoreDataPlanes",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "Yes Move your private mobile network resources to a different region ."
+	},
+	{
+		"resource_provider": "Microsoft.MobileNetwork",
+		"resource_type": "packetCoreControlPlanes / packetCoreDataPlanes / attachedDataNetworks",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "Yes Move your private mobile network resources to a different region ."
+	},
+	{
+		"resource_provider": "Microsoft.MobileNetwork",
+		"resource_type": "sims",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "Yes Move your private mobile network resources to a different region ."
+	},
+	{
+		"resource_provider": "Microsoft.MobileNetwork",
+		"resource_type": "simGroups",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "Yes Move your private mobile network resources to a different region ."
+	},
+	{
+		"resource_provider": "Microsoft.MobileNetwork",
+		"resource_type": "simGroups / sims",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "Yes Move your private mobile network resources to a different region ."
+	},
+	{
+		"resource_provider": "Microsoft.MobileNetwork",
+		"resource_type": "packetCoreControlPlaneVersions",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "Yes Move your private mobile network resources to a different region ."
+	},
+	{
+		"resource_provider": "Microsoft.NetApp",
+		"resource_type": "netappaccounts",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.NetApp",
+		"resource_type": "netappaccounts / capacitypools",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.NetApp",
+		"resource_type": "netappaccounts / capacitypools / volumes",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.NetApp",
+		"resource_type": "netappaccounts / capacitypools / volumes / mounttargets",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.NetApp",
+		"resource_type": "netappaccounts / capacitypools / volumes / snapshots",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Network",
+		"resource_type": "applicationgateways",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Network",
+		"resource_type": "applicationgatewaywebapplicationfirewallpolicies",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Network",
+		"resource_type": "applicationsecuritygroups",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Network",
+		"resource_type": "azurefirewalls",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Network",
+		"resource_type": "bastionhosts",
+		"resource_group_move": "Yes",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Network",
+		"resource_type": "bgpservicecommunities",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Network",
+		"resource_type": "connections",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Network",
+		"resource_type": "ddoscustompolicies",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Network",
+		"resource_type": "ddosprotectionplans",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Network",
+		"resource_type": "dnszones",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Network",
+		"resource_type": "expressroutecircuits",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Network",
+		"resource_type": "expressroutegateways",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Network",
+		"resource_type": "expressrouteserviceproviders",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Network",
+		"resource_type": "firewallpolicies",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Network",
+		"resource_type": "frontdoors",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Network",
+		"resource_type": "ipallocations",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Network",
+		"resource_type": "ipgroups",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Network",
+		"resource_type": "loadbalancers",
+		"resource_group_move": "yes  - basic sku   yes  - standard sku",
+		"subscription_move": "yes  - basic sku no - standard sku",
+		"region_move": "Yes    Use  Azure Resource Mover  to move internal and external load balancers."
+	},
+	{
+		"resource_provider": "Microsoft.Network",
+		"resource_type": "localnetworkgateways",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Network",
+		"resource_type": "natgateways",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Network",
+		"resource_type": "networkexperimentprofiles",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Network",
+		"resource_type": "networkintentpolicies",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Network",
+		"resource_type": "networkinterfaces",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "Yes    Use  Azure Resource Mover  to move NICs."
+	},
+	{
+		"resource_provider": "Microsoft.Network",
+		"resource_type": "networkprofiles",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Network",
+		"resource_type": "networksecuritygroups",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "Yes    Use  Azure Resource Mover  to move network security groups."
+	},
+	{
+		"resource_provider": "Microsoft.Network",
+		"resource_type": "networkwatchers",
+		"resource_group_move": "Yes",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Network",
+		"resource_type": "networkwatchers / connectionmonitors",
+		"resource_group_move": "Yes",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Network",
+		"resource_type": "networkwatchers / flowlogs",
+		"resource_group_move": "Yes",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Network",
+		"resource_type": "networkwatchers / pingmeshes",
+		"resource_group_move": "Yes",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Network",
+		"resource_type": "p2svpngateways",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Network",
+		"resource_type": "privatednszones",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Network",
+		"resource_type": "privatednszones / virtualnetworklinks",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Network",
+		"resource_type": "privatednszonesinternal",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Network",
+		"resource_type": "privateendpointredirectmaps",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Network",
+		"resource_type": "privateendpoints",
+		"resource_group_move": "yes  - for  supported private-link resources no - for all other private-link resources",
+		"subscription_move": "yes  - for  supported private-link resources no - for all other private-link resources",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Network",
+		"resource_type": "privatelinkservices",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Network",
+		"resource_type": "publicipaddresses",
+		"resource_group_move": "Yes",
+		"subscription_move": "yes  - see  networking move guidance",
+		"region_move": "No  Use  Azure Resource Mover  to move public IP address configurations (IP addresses are not retained)."
+	},
+	{
+		"resource_provider": "Microsoft.Network",
+		"resource_type": "publicipprefixes",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Network",
+		"resource_type": "routefilters",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Network",
+		"resource_type": "routetables",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Network",
+		"resource_type": "securitypartnerproviders",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Network",
+		"resource_type": "serviceendpointpolicies",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Network",
+		"resource_type": "trafficmanagergeographichierarchies",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Network",
+		"resource_type": "trafficmanagerprofiles",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Network",
+		"resource_type": "trafficmanagerprofiles / heatmaps",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Network",
+		"resource_type": "trafficmanagerusermetricskeys",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Network",
+		"resource_type": "virtualhubs",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Network",
+		"resource_type": "virtualnetworkgateways",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Network",
+		"resource_type": "virtualnetworks",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "Yes"
+	},
+	{
+		"resource_provider": "Microsoft.Network",
+		"resource_type": "virtualnetworktaps",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Network",
+		"resource_type": "virtualrouters",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Network",
+		"resource_type": "virtualwans",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "Unknown"
+	},
+	{
+		"resource_provider": "Microsoft.Network",
+		"resource_type": "vpngateways (Virtual WAN)",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Network",
+		"resource_type": "vpnserverconfigurations",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Network",
+		"resource_type": "vpnsites (Virtual WAN)",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.NotificationHubs",
+		"resource_type": "namespaces",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.NotificationHubs",
+		"resource_type": "namespaces / notificationhubs",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.ObjectStore",
+		"resource_type": "osnamespaces",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.OffAzure",
+		"resource_type": "hypervsites",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.OffAzure",
+		"resource_type": "importsites",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.OffAzure",
+		"resource_type": "mastersites",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.OffAzure",
+		"resource_type": "serversites",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.OffAzure",
+		"resource_type": "vmwaresites",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.OperationalInsights",
+		"resource_type": "clusters",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.OperationalInsights",
+		"resource_type": "deletedworkspaces",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.OperationalInsights",
+		"resource_type": "linktargets",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.OperationalInsights",
+		"resource_type": "storageinsightconfigs",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.OperationalInsights",
+		"resource_type": "workspaces",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.OperationalInsights",
+		"resource_type": "querypacks",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.OperationsManagement",
+		"resource_type": "managementassociations",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.OperationsManagement",
+		"resource_type": "managementconfigurations",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.OperationsManagement",
+		"resource_type": "solutions",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.OperationsManagement",
+		"resource_type": "views",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Peering",
+		"resource_type": "legacypeerings",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Peering",
+		"resource_type": "peerasns",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Peering",
+		"resource_type": "peeringlocations",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Peering",
+		"resource_type": "peerings",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Peering",
+		"resource_type": "peeringservicecountries",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Peering",
+		"resource_type": "peeringservicelocations",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Peering",
+		"resource_type": "peeringserviceproviders",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Peering",
+		"resource_type": "peeringservices",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.PolicyInsights",
+		"resource_type": "policyevents",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.PolicyInsights",
+		"resource_type": "policystates",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.PolicyInsights",
+		"resource_type": "policytrackedresources",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.PolicyInsights",
+		"resource_type": "remediations",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Portal",
+		"resource_type": "consoles",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Portal",
+		"resource_type": "dashboards",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Portal",
+		"resource_type": "usersettings",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.PowerBI",
+		"resource_type": "workspacecollections",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.PowerBIDedicated",
+		"resource_type": "capacities",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.ProgrammableConnectivity",
+		"resource_type": "gateways",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.ProgrammableConnectivity",
+		"resource_type": "openApiGatewayOfferings",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.ProgrammableConnectivity",
+		"resource_type": "openApiGateways",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.ProgrammableConnectivity",
+		"resource_type": "operatorApiConnections",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.ProgrammableConnectivity",
+		"resource_type": "operatorApiPlans",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.ProgrammableConnectivity",
+		"resource_type": "OperatorConnections",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.ProgrammableConnectivity",
+		"resource_type": "OperatorOfferings",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.ProjectBabylon",
+		"resource_type": "accounts",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Purview",
+		"resource_type": "accounts",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.ProviderHub",
+		"resource_type": "availableaccounts",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.ProviderHub",
+		"resource_type": "providerregistrations",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.ProviderHub",
+		"resource_type": "rollouts",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Quantum",
+		"resource_type": "workspaces",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.RecoveryServices",
+		"resource_type": "replicationeligibilityresults",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.RecoveryServices",
+		"resource_type": "vaults",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No  Using Azure Backup to move Recovery Services vaults across Azure regions isn't supported.  You can use Azure Site Recovery to  disable and recreate the vault  in the target region for Recovery Services vaults."
+	},
+	{
+		"resource_provider": "Microsoft.RedHatOpenShift",
+		"resource_type": "openshiftclusters",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Relay",
+		"resource_type": "namespaces",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.ResourceGraph",
+		"resource_type": "queries",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.ResourceGraph",
+		"resource_type": "resourcechangedetails",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.ResourceGraph",
+		"resource_type": "resourcechanges",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.ResourceGraph",
+		"resource_type": "resources",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.ResourceGraph",
+		"resource_type": "resourceshistory",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.ResourceGraph",
+		"resource_type": "subscriptionsstatus",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.ResourceHealth",
+		"resource_type": "childresources",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.ResourceHealth",
+		"resource_type": "emergingissues",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.ResourceHealth",
+		"resource_type": "events",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.ResourceHealth",
+		"resource_type": "metadata",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.ResourceHealth",
+		"resource_type": "notifications",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Resources",
+		"resource_type": "deployments",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Resources",
+		"resource_type": "deploymentscripts",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "Yes Move Microsoft.Resources resources to new regions ."
+	},
+	{
+		"resource_provider": "Microsoft.Resources",
+		"resource_type": "deploymentscripts / logs",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Resources",
+		"resource_type": "links",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Resources",
+		"resource_type": "providers",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Resources",
+		"resource_type": "resourcegroups",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Resources",
+		"resource_type": "resources",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Resources",
+		"resource_type": "subscriptions",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Resources",
+		"resource_type": "tags",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Resources",
+		"resource_type": "templatespecs",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "Move Microsoft.Resources resources to new regions ."
+	},
+	{
+		"resource_provider": "Microsoft.Resources",
+		"resource_type": "templatespecs / versions",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Resources",
+		"resource_type": "tenants",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Saas",
+		"resource_type": "applications",
+		"resource_group_move": "Yes",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Saas",
+		"resource_type": "resources",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Saas",
+		"resource_type": "saasresources",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Search",
+		"resource_type": "resourcehealthmetadata",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Search",
+		"resource_type": "searchservices",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Security",
+		"resource_type": "adaptivenetworkhardenings",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Security",
+		"resource_type": "advancedthreatprotectionsettings",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Security",
+		"resource_type": "alerts",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Security",
+		"resource_type": "allowedconnections",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Security",
+		"resource_type": "applicationwhitelistings",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Security",
+		"resource_type": "assessmentmetadata",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Security",
+		"resource_type": "assessments",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Security",
+		"resource_type": "autodismissalertsrules",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Security",
+		"resource_type": "automations",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Security",
+		"resource_type": "autoprovisioningsettings",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Security",
+		"resource_type": "complianceresults",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Security",
+		"resource_type": "compliances",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Security",
+		"resource_type": "datacollectionagents",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Security",
+		"resource_type": "devicesecuritygroups",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Security",
+		"resource_type": "discoveredsecuritysolutions",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Security",
+		"resource_type": "externalsecuritysolutions",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Security",
+		"resource_type": "informationprotectionpolicies",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Security",
+		"resource_type": "iotsecuritysolutions",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Security",
+		"resource_type": "iotsecuritysolutions / analyticsmodels",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Security",
+		"resource_type": "iotsecuritysolutions / analyticsmodels / aggregatedalerts",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Security",
+		"resource_type": "iotsecuritysolutions / analyticsmodels / aggregatedrecommendations",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Security",
+		"resource_type": "jitnetworkaccesspolicies",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Security",
+		"resource_type": "policies",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Security",
+		"resource_type": "pricings",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Security",
+		"resource_type": "regulatorycompliancestandards",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Security",
+		"resource_type": "regulatorycompliancestandards / regulatorycompliancecontrols",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Security",
+		"resource_type": "regulatorycompliancestandards / regulatorycompliancecontrols / regulatorycomplianceassessments",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Security",
+		"resource_type": "securitycontacts",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Security",
+		"resource_type": "securitysolutions",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Security",
+		"resource_type": "securitysolutionsreferencedata",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Security",
+		"resource_type": "securitystatuses",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Security",
+		"resource_type": "securitystatusessummaries",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Security",
+		"resource_type": "servervulnerabilityassessments",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Security",
+		"resource_type": "settings",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Security",
+		"resource_type": "subassessments",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Security",
+		"resource_type": "tasks",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Security",
+		"resource_type": "topologies",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Security",
+		"resource_type": "workspacesettings",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.SecurityInsights",
+		"resource_type": "aggregations",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.SecurityInsights",
+		"resource_type": "alertrules",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.SecurityInsights",
+		"resource_type": "alertruletemplates",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.SecurityInsights",
+		"resource_type": "automationrules",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.SecurityInsights",
+		"resource_type": "bookmarks",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.SecurityInsights",
+		"resource_type": "cases",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.SecurityInsights",
+		"resource_type": "dataconnectors",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.SecurityInsights",
+		"resource_type": "entities",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.SecurityInsights",
+		"resource_type": "entityqueries",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.SecurityInsights",
+		"resource_type": "incidents",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.SecurityInsights",
+		"resource_type": "officeconsents",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.SecurityInsights",
+		"resource_type": "settings",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.SecurityInsights",
+		"resource_type": "threatintelligence",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.SerialConsole",
+		"resource_type": "consoleservices",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.ServerManagement",
+		"resource_type": "gateways",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.ServerManagement",
+		"resource_type": "nodes",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.ServiceBus",
+		"resource_type": "namespaces",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "Yes (using template)"
+	},
+	{
+		"resource_provider": "Microsoft.ServiceBus",
+		"resource_type": "premiummessagingregions",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.ServiceBus",
+		"resource_type": "sku",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.ServiceFabric",
+		"resource_type": "applications",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.ServiceFabric",
+		"resource_type": "clusters",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.ServiceFabric",
+		"resource_type": "containergroups",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.ServiceFabric",
+		"resource_type": "containergroupsets",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.ServiceFabric",
+		"resource_type": "edgeclusters",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.ServiceFabric",
+		"resource_type": "managedclusters",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.ServiceFabric",
+		"resource_type": "networks",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.ServiceFabric",
+		"resource_type": "secretstores",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.ServiceFabric",
+		"resource_type": "volumes",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.ServiceFabricMesh",
+		"resource_type": "applications",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.ServiceFabricMesh",
+		"resource_type": "containergroups",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.ServiceFabricMesh",
+		"resource_type": "gateways",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.ServiceFabricMesh",
+		"resource_type": "networks",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.ServiceFabricMesh",
+		"resource_type": "secrets",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.ServiceFabricMesh",
+		"resource_type": "volumes",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.ServiceNetworking",
+		"resource_type": "trafficcontrollers",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.ServiceNetworking",
+		"resource_type": "associations",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.ServiceNetworking",
+		"resource_type": "frontends",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Services",
+		"resource_type": "rollouts",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.SignalRService",
+		"resource_type": "signalr",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.SoftwarePlan",
+		"resource_type": "hybridusebenefits",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Solutions",
+		"resource_type": "applicationdefinitions",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Solutions",
+		"resource_type": "applications",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Solutions",
+		"resource_type": "jitrequests",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Sql",
+		"resource_type": "instancepools",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Sql",
+		"resource_type": "locations",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Sql",
+		"resource_type": "managedinstances",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "Yes     Learn more  about moving managed instances across regions."
+	},
+	{
+		"resource_provider": "Microsoft.Sql",
+		"resource_type": "managedinstances / databases",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "Yes"
+	},
+	{
+		"resource_provider": "Microsoft.Sql",
+		"resource_type": "servers",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "Yes"
+	},
+	{
+		"resource_provider": "Microsoft.Sql",
+		"resource_type": "servers / databases",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "Yes     Learn more  about moving databases across regions.   Learn more  about using Azure Resource Mover to move Azure SQL databases."
+	},
+	{
+		"resource_provider": "Microsoft.Sql",
+		"resource_type": "servers / databases / backuplongtermretentionpolicies",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Sql",
+		"resource_type": "servers / elasticpools",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "Yes     Learn more  about moving elastic pools across regions.   Learn more  about using Azure Resource Mover to move Azure SQL elastic pools."
+	},
+	{
+		"resource_provider": "Microsoft.Sql",
+		"resource_type": "servers / jobaccounts",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Sql",
+		"resource_type": "servers / jobagents",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Sql",
+		"resource_type": "virtualclusters",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.SqlVirtualMachine",
+		"resource_type": "sqlvirtualmachinegroups",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.SqlVirtualMachine",
+		"resource_type": "sqlvirtualmachines",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Storage",
+		"resource_type": "storageaccounts",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "Relocate an Azure Storage account to another region ."
+	},
+	{
+		"resource_provider": "Microsoft.StorageCache",
+		"resource_type": "caches",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.StorageSync",
+		"resource_type": "storagesyncservices",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.StorageSyncDev",
+		"resource_type": "storagesyncservices",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.StorageSyncInt",
+		"resource_type": "storagesyncservices",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.StorSimple",
+		"resource_type": "managers",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.StreamAnalytics",
+		"resource_type": "clusters",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.StreamAnalytics",
+		"resource_type": "streamingjobs",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.StreamAnalyticsExplorer",
+		"resource_type": "environments",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.StreamAnalyticsExplorer",
+		"resource_type": "instances",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Subscription",
+		"resource_type": "subscriptions",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Support",
+		"resource_type": "services",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Support",
+		"resource_type": "supporttickets",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Synapse",
+		"resource_type": "workspaces",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Synapse",
+		"resource_type": "workspaces / bigdatapools",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Synapse",
+		"resource_type": "workspaces / sqlpools",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.TimeSeriesInsights",
+		"resource_type": "environments",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.TimeSeriesInsights",
+		"resource_type": "environments / eventsources",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.TimeSeriesInsights",
+		"resource_type": "environments / referencedatasets",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Token",
+		"resource_type": "stores",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.VirtualMachineImages",
+		"resource_type": "imagetemplates",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.VisualStudio",
+		"resource_type": "account",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.VisualStudio",
+		"resource_type": "account / extension",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.VisualStudio",
+		"resource_type": "account / project",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.VMware",
+		"resource_type": "arczones",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.VMware",
+		"resource_type": "resourcepools",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.VMware",
+		"resource_type": "vcenters",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.VMware",
+		"resource_type": "virtualmachines",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.VMware",
+		"resource_type": "virtualmachinetemplates",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.VMware",
+		"resource_type": "virtualnetworks",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.VMwareCloudSimple",
+		"resource_type": "dedicatedcloudnodes",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.VMwareCloudSimple",
+		"resource_type": "dedicatedcloudservices",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.VMwareCloudSimple",
+		"resource_type": "virtualmachines",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.VnfManager",
+		"resource_type": "devices",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.VnfManager",
+		"resource_type": "vnfs",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.VSOnline",
+		"resource_type": "accounts",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.VSOnline",
+		"resource_type": "plans",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.VSOnline",
+		"resource_type": "registeredsubscriptions",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Web",
+		"resource_type": "availablestacks",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Web",
+		"resource_type": "billingmeters",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Web",
+		"resource_type": "certificates",
+		"resource_group_move": "No",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Web",
+		"resource_type": "certificates (managed)",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Web",
+		"resource_type": "connectiongateways",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Web",
+		"resource_type": "connections",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Web",
+		"resource_type": "customapis",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Web",
+		"resource_type": "deletedsites",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Web",
+		"resource_type": "deploymentlocations",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Web",
+		"resource_type": "georegions",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Web",
+		"resource_type": "hostingenvironments",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Web",
+		"resource_type": "kubeenvironments",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Web",
+		"resource_type": "publishingusers",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Web",
+		"resource_type": "recommendations",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Web",
+		"resource_type": "resourcehealthmetadata",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Web",
+		"resource_type": "runtimes",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Web",
+		"resource_type": "serverfarms",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Web",
+		"resource_type": "serverfarms / eventgridfilters",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Web",
+		"resource_type": "sites",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Web",
+		"resource_type": "sites / premieraddons",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Web",
+		"resource_type": "sites / slots",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Web",
+		"resource_type": "sourcecontrols",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.Web",
+		"resource_type": "staticsites",
+		"resource_group_move": "Yes",
+		"subscription_move": "Yes",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.WindowsESU",
+		"resource_type": "multipleactivationkeys",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.WindowsIoT",
+		"resource_type": "deviceservices",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.WorkloadBuilder",
+		"resource_type": "workloads",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.WorkloadMonitor",
+		"resource_type": "components",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.WorkloadMonitor",
+		"resource_type": "componentssummary",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.WorkloadMonitor",
+		"resource_type": "monitorinstances",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.WorkloadMonitor",
+		"resource_type": "monitorinstancessummary",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
+	},
+	{
+		"resource_provider": "Microsoft.WorkloadMonitor",
+		"resource_type": "monitors",
+		"resource_group_move": "No",
+		"subscription_move": "No",
+		"region_move": "No"
 	}
 ]
